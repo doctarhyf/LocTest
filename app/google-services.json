@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94435435103",
+    "firebase_url": "https://loctest-6ef6d.firebaseio.com",
+    "project_id": "loctest-6ef6d",
+    "storage_bucket": "loctest-6ef6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94435435103:android:2b0d23c0c1754349cbb1ea",
+        "android_client_info": {
+          "package_name": "com.example.loctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94435435103-3m36akf9i8igbkt7caknd09hlm0t1eij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loctest",
+            "certificate_hash": "d5c24c27e868c72c0d0dc96bbb284bceae9b4d6c"
+          }
+        },
+        {
+          "client_id": "94435435103-pftv29lercj17ranfnvannfabb5eld71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1NMObcqgXF2jZrAbhz58AHkTlbq8Wt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94435435103-pftv29lercj17ranfnvannfabb5eld71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
